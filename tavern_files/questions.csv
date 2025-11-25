@@ -1,0 +1,121 @@
+question_id,question_text,response_options,field_date
+Q001,"Do you support or oppose a policy that would provide universal pre-K education for all 3- and 4-year-olds, funded by increased taxes on households earning over $400,000 per year?",Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-15
+Q002,Which message is more persuasive in favor of expanding Medicaid?,Message A: Expanding Medicaid would provide healthcare coverage to 2 million working families who currently can't afford insurance.|Message B: Medicaid expansion is fiscally responsible - states that expanded Medicaid saw lower uncompensated care costs and stronger state budgets.,2024-11-02
+Q003,Which of the following issues are most important to you when deciding how to vote in the 2024 presidential election? (Select all that apply),Economy and jobs|Healthcare|Education|Climate change|Immigration|Crime and public safety|Abortion|Gun policy|Foreign policy|Other,2024-10-20
+Q004,"If the election for Congress were held today, would you vote for the Democratic candidate or the Republican candidate in your district?",Democratic candidate|Republican candidate|Undecided,2024-10-28
+Q005,Do you have a favorable or unfavorable opinion of Senator Maria Johnson?,Very favorable|Somewhat favorable|Somewhat unfavorable|Very unfavorable|Haven't heard enough to say,2024-08-12
+Q006,Which message is more persuasive against the housing development proposal?,"Message A: This development would worsen traffic congestion, adding 30 minutes to your daily commute during rush hour.|Message B: This development doesn't include enough affordable housing units - only 5% would be accessible to median-income families.",2024-07-25
+Q007,"In your own words, what is the most important issue facing your community right now?",[Open-ended response],2024-06-10
+Q008,Do you approve or disapprove of the way President Biden is handling the economy?,Strongly approve|Somewhat approve|Somewhat disapprove|Strongly disapprove,2024-11-01
+Q009,"Rank the following education priorities in order of importance to you, with 1 being most important.",Increasing teacher salaries|Reducing class sizes|Improving school infrastructure|Expanding vocational training|Increasing funding for special education,2024-09-15
+Q010,Do you support or oppose Congress passing a continuing resolution to keep the government funded through March 2025?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know,2024-09-28
+Q011,"How much do you agree or disagree with the following statement: 'The federal government should forgive up to $10,000 in student loan debt for borrowers earning less than $125,000 per year.'",Strongly agree|Somewhat agree|Somewhat disagree|Strongly disagree,2024-05-18
+Q012,Which of the following sources do you trust to provide accurate information about healthcare policy? (Select all that apply),Major newspapers|Local news|Cable news networks|Social media|Government websites|Healthcare providers|Friends and family|None of these,2024-08-22
+Q013,Which candidate quality is more important to you?,Experience in government|Shares my values|Can work across party lines|Fights for people like me|Has a clear plan|Is honest and trustworthy,2024-10-15
+Q014,How likely are you to vote in the November 2024 election?,Definitely will vote|Probably will vote|Might or might not vote|Probably won't vote|Definitely won't vote,2024-10-05
+Q015,"On a scale from 0 to 100, where 0 means very cold or unfavorable, and 100 means very warm or favorable, how do you feel about labor unions?",[Numeric scale 0-100],2024-07-08
+Q016,Do you support or oppose allowing Medicare to negotiate prescription drug prices directly with pharmaceutical companies?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-08-30
+Q017,"If Democrats in Congress refuse to pass the budget and force a government shutdown to demand stricter border security measures, would that make you more likely or less likely to vote for Democratic candidates?",Much more likely|Somewhat more likely|No difference|Somewhat less likely|Much less likely,2024-09-22
+Q018,Which of the following best describes your current housing situation? (Select all that apply),Own my home|Rent my home|Live with family or friends|Experiencing housing insecurity|Paying more than 30% of income on housing|Considering moving in the next year|Satisfied with current housing,2024-07-29
+Q019,"Compared to one year ago, would you say the economy in your area is getting better or getting worse?",Much better|Somewhat better|About the same|Somewhat worse|Much worse,2024-10-12
+Q020,Which concern about climate policy is most important to you?,Cost of climate policies to consumers|Impact on jobs in energy sector|Effectiveness of proposed solutions|Urgency of the climate threat|Fairness across income levels,2024-06-28
+Q021,"Do you support or oppose requiring background checks for all gun sales, including private sales and gun shows?",Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-04-22
+Q022,How confident are you that your vote will be counted accurately in the 2024 election?,Very confident|Somewhat confident|Not very confident|Not at all confident,2024-09-18
+Q023,Do you favor or oppose allowing individuals to invest a portion of their Social Security taxes in private retirement accounts?,Strongly favor|Somewhat favor|Somewhat oppose|Strongly oppose|Don't know,2024-06-05
+Q024,Which statement comes closer to your view about abortion?,Abortion should be legal in all or most cases|Abortion should be illegal in all or most cases,2024-05-30
+Q025,"In your own words, what does the American Dream mean to you?",[Open-ended response],2024-07-14
+Q026,Do you think the country is headed in the right direction or is on the wrong track?,Right direction|Wrong track|Not sure,2024-10-30
+Q027,How much do you trust each of the following institutions? The federal government,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q028,Do you support or oppose increasing the federal minimum wage to $15 per hour?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-07-08
+Q029,Which message about infrastructure investment is more convincing?,Message A: Infrastructure investment creates millions of good-paying jobs and strengthens our economy for decades.|Message B: Infrastructure spending adds to the national debt and raises taxes on working families.,2024-06-15
+Q030,How serious a problem is climate change?,Very serious problem|Somewhat serious problem|Not too serious a problem|Not a problem at all,2024-06-28
+Q031,Do you approve or disapprove of the way your governor is handling their job?,Strongly approve|Somewhat approve|Somewhat disapprove|Strongly disapprove,2024-08-25
+Q032,"Should immigration levels to the United States be increased, decreased, or kept about the same?",Increased a lot|Increased a little|Kept about the same|Decreased a little|Decreased a lot,2024-09-08
+Q033,Which of the following have you done in the past year? (Select all that apply),Contacted an elected official|Attended a political rally or protest|Donated to a political campaign|Volunteered for a campaign|Signed a petition|Posted about politics on social media|None of these,2024-08-03
+Q034,How much of a problem is crime in your local community?,Major problem|Moderate problem|Minor problem|Not a problem at all,2024-10-08
+Q035,Do you support or oppose providing a pathway to citizenship for undocumented immigrants who were brought to the US as children?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-08
+Q036,Which is more important: protecting the right to own guns or controlling gun ownership?,Protecting gun rights much more important|Protecting gun rights somewhat more important|Both equally important|Controlling gun ownership somewhat more important|Controlling gun ownership much more important,2024-04-22
+Q037,How worried are you about being able to afford healthcare for you and your family?,Very worried|Somewhat worried|Not too worried|Not worried at all,2024-08-30
+Q038,Please describe in your own words what concerns you most about the direction of the country.,[Open-ended response],2024-10-30
+Q039,"Do you think police violence against civilians is a very serious problem, somewhat serious problem, or not a serious problem?",Very serious problem|Somewhat serious problem|Not too serious a problem|Not a problem at all,2024-06-20
+Q040,Which of these statements comes closest to your view about government?,Government should do more to solve problems|Government is doing too many things better left to businesses and individuals,2024-05-12
+Q041,How much have rising prices affected your household finances over the past year?,A great deal|A fair amount|Not very much|Not at all,2024-10-12
+Q042,Do you support or oppose banning assault-style weapons?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-04-22
+Q043,Which approach to reducing illegal immigration would you prefer?,Increase border security and enforcement|Create more legal pathways for immigration|Both equally|Neither,2024-09-08
+Q044,How much do you trust each of the following institutions? The news media,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q045,"On a scale from 0 to 100, how would you rate the current state of the economy?",[Numeric scale 0-100],2024-10-12
+Q046,Do you support or oppose the Affordable Care Act (Obamacare)?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know enough to say,2024-08-30
+Q047,"If Republicans in Congress force a government shutdown over spending disagreements in December 2024, who would you blame more?",Mostly Republicans|Somewhat Republicans|Both equally|Somewhat Democrats|Mostly Democrats,2024-11-05
+Q048,Which of the following best describes your employment status?,Employed full-time|Employed part-time|Self-employed|Unemployed and looking for work|Unemployed and not looking|Retired|Student|Homemaker,2024-07-18
+Q049,"In your own words, what do you think are the biggest challenges facing young people today?",[Open-ended response],2024-05-25
+Q050,How much confidence do you have in the Supreme Court?,A great deal|Quite a lot|Some|Very little|None,2024-07-01
+Q051,Do you support or oppose requiring public schools to allow transgender students to use bathrooms matching their gender identity?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-06-12
+Q052,Which party do you trust more to handle the economy?,Democrats much more|Democrats somewhat more|About equal|Republicans somewhat more|Republicans much more|Neither party,2024-10-25
+Q053,"Should marijuana be legal for recreational use, legal only for medical use, or not be legal at all?",Legal for recreational and medical use|Legal for medical use only|Should not be legal|Not sure,2024-04-18
+Q054,How concerned are you about foreign interference in US elections?,Very concerned|Somewhat concerned|Not very concerned|Not at all concerned,2024-09-18
+Q055,Which energy source should the US prioritize developing?,Solar and wind|Natural gas|Nuclear|Oil|Coal|A mix of all sources,2024-08-14
+Q056,Do you approve or disapprove of the way Congress is handling its job?,Strongly approve|Somewhat approve|Somewhat disapprove|Strongly disapprove,2024-10-28
+Q057,How much have you heard about the proposal to expand the Supreme Court from 9 to 13 justices?,A lot|Some|A little|Nothing at all,2024-07-01
+Q058,Which of these issues should be the top priority for Congress in 2025? (Select up to three),Economy|Healthcare|Immigration|Climate change|Crime|Education|Infrastructure|National security|Abortion|Gun policy,2024-11-10
+Q059,"In your own words, what would make you feel more financially secure?",[Open-ended response],2024-10-12
+Q060,Do you support or oppose eliminating the Electoral College and electing the president by national popular vote?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know,2024-05-20
+Q061,Which statement is closer to your view about the 2020 presidential election?,Joe Biden legitimately won|The election was stolen from Donald Trump|Not sure,2024-09-18
+Q062,How much do you trust each of the following institutions? Public schools,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q063,Do you support or oppose providing free community college tuition for all Americans?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-05-18
+Q064,Which message about tax policy is more persuasive?,Message A: We should cut taxes for the middle class to help families make ends meet.|Message B: We should raise taxes on the wealthy and corporations to fund important programs.,2024-06-25
+Q065,How worried are you about you or someone in your family contracting COVID-19?,Very worried|Somewhat worried|Not too worried|Not worried at all,2024-03-05
+Q066,"Do you think the US should increase, decrease, or maintain current levels of military spending?",Increase significantly|Increase somewhat|Keep about the same|Decrease somewhat|Decrease significantly,2024-08-20
+Q067,"Rank these healthcare priorities in order of importance, with 1 being most important.",Lowering prescription drug costs|Expanding insurance coverage|Improving quality of care|Reducing wait times|Addressing mental health,2024-08-30
+Q068,How often do you feel that the political system works for people like you?,Almost always|Often|Sometimes|Rarely|Never,2024-07-22
+Q069,"In your own words, what does democracy mean to you?",[Open-ended response],2024-09-28
+Q070,Do you support or oppose requiring voter ID at polling places?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-18
+Q071,Which of the following have you experienced in the past year? (Select all that apply),Difficulty paying rent or mortgage|Difficulty affording food|Difficulty paying for healthcare|Difficulty paying for childcare|Job loss or reduced hours|None of these,2024-10-12
+Q072,Do you think race relations in the United States are generally good or generally bad?,Very good|Somewhat good|Somewhat bad|Very bad|Don't know,2024-06-20
+Q073,"Should the federal government guarantee health insurance for all Americans, or should health insurance be left to private companies?",Government should guarantee|Should be left to private companies|Mix of both|Not sure,2024-08-30
+Q074,How much influence do you think wealthy donors have on political decisions?,Too much influence|About the right amount|Too little influence|Not sure,2024-07-28
+Q075,Do you support or oppose the death penalty for persons convicted of murder?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-06-20
+Q076,Which political leader would you most like to see run for president in 2028?,[Open-ended response],2024-11-08
+Q077,How much do you trust each of the following institutions? Large corporations,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q078,Do you support or oppose requiring companies to provide paid family and medical leave?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-07-08
+Q079,Which concern about AI and automation worries you most?,Job losses|Privacy concerns|Misinformation and deepfakes|Bias and discrimination|Loss of human control|AI doesn't worry me,2024-10-15
+Q080,Should the US prioritize developing new fossil fuel resources or transitioning to renewable energy?,Prioritize fossil fuels|Somewhat prioritize fossil fuels|Balance both equally|Somewhat prioritize renewables|Prioritize renewables,2024-08-14
+Q081,How much has your opinion of Donald Trump changed since he left office in January 2021?,Much more favorable|Somewhat more favorable|No change|Somewhat less favorable|Much less favorable,2024-10-20
+Q082,Do you support or oppose reparations for descendants of enslaved people in America?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know,2024-06-20
+Q083,Which of the following social media platforms do you use regularly? (Select all that apply),Facebook|Instagram|Twitter/X|TikTok|YouTube|LinkedIn|Snapchat|Reddit|None,2024-09-12
+Q084,"In your own words, what changes would you most like to see in your local schools?",[Open-ended response],2024-09-15
+Q085,How often do you discuss politics with friends or family?,Every day|A few times a week|A few times a month|Rarely|Never,2024-08-03
+Q086,"Do you think the US is spending too much, too little, or about the right amount on foreign aid?",Too much|Too little|About right|Don't know,2024-08-20
+Q087,Which message about child care policy is more effective?,Message A: Universal child care would allow parents to work and boost the economy.|Message B: Government child care programs take away parental choice and increase taxes.,2024-07-30
+Q088,How satisfied are you with the quality of public transportation in your area?,Very satisfied|Somewhat satisfied|Somewhat dissatisfied|Very dissatisfied|No public transportation available,2024-06-18
+Q089,Do you support or oppose expanding access to mail-in voting?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-18
+Q090,Which economic system do you think is best for America?,Capitalism|Socialism|Democratic socialism|Mixed economy|Other,2024-05-28
+Q091,How much do you trust each of the following institutions? Religious institutions,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q092,"Do you think the legal system in the US treats all people fairly, or does it favor some groups?",Treats all fairly|Favors some groups|Not sure,2024-06-20
+Q093,What advice would you give to young people who are just starting to pay attention to politics?,[Open-ended response],2024-08-03
+Q094,Should the government do more or less to regulate what is taught in public schools?,Much more|Somewhat more|About the same as now|Somewhat less|Much less,2024-09-15
+Q095,Do you support or oppose term limits for members of Congress?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-07-16
+Q096,Which aspect of inflation concerns you most?,Food prices|Gas prices|Housing costs|Healthcare costs|All equally,2024-10-12
+Q097,Do you think social media companies should do more or less to moderate content on their platforms?,Much more|Somewhat more|About the right amount now|Somewhat less|Much less,2024-10-15
+Q098,How much have you heard about the conflict between Israel and Hamas that began in October 2023?,A lot|Some|A little|Nothing at all,2024-11-02
+Q099,Which of these values is most important to you personally?,Freedom|Equality|Security|Prosperity|Justice|Community,2024-07-14
+Q100,"In your own words, how has the economy affected your life over the past year?",[Open-ended response],2024-10-12
+Q101,Do you approve or disapprove of how your local police department is doing its job?,Strongly approve|Somewhat approve|Somewhat disapprove|Strongly disapprove,2024-10-08
+Q102,"Should the US do more to address global climate change even if it hurts the economy, or should the US prioritize economic growth even if it hurts the environment?",Prioritize climate even if it hurts economy|Somewhat prioritize climate|Balance both equally|Somewhat prioritize economy|Prioritize economy even if it hurts environment,2024-06-28
+Q103,Which of these news sources do you trust most for accurate political information?,CNN|Fox News|MSNBC|NPR|New York Times|Wall Street Journal|Local news|None of these,2024-09-12
+Q104,How much of a threat is China to the United States?,Major threat|Minor threat|Not a threat|Not sure,2024-08-20
+Q105,Do you support or oppose the US providing military aid to Ukraine?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know,2024-11-02
+Q106,"Thinking about your local community, what is one thing you would change if you could?",[Open-ended response],2024-06-10
+Q107,How often do you feel stressed about the state of politics in America?,Almost always|Often|Sometimes|Rarely|Never,2024-10-20
+Q108,Do you think the next generation of Americans will be better off or worse off than people are today?,Much better off|Somewhat better off|About the same|Somewhat worse off|Much worse off,2024-07-14
+Q109,Which is a bigger problem in this country: people being too easily offended or people saying offensive things?,People too easily offended much bigger|People too easily offended somewhat bigger|Both equal|People saying offensive things somewhat bigger|People saying offensive things much bigger,2024-06-15
+Q110,How much do you trust each of the following institutions? The military,A great deal|A fair amount|Not very much|Not at all,2024-03-12
+Q111,Do you support or oppose making Election Day a national holiday?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-18
+Q112,Which factor is most important to you when deciding which news sources to trust?,Political neutrality|Fact-checking accuracy|Speed of reporting|Depth of analysis|Matches my views|Source reputation,2024-09-12
+Q113,"If you could ask the next president one question, what would it be?",[Open-ended response],2024-11-10
+Q114,How much responsibility should the federal government have for ensuring all Americans have healthcare coverage?,A great deal|A fair amount|Not too much|None at all,2024-08-30
+Q115,Do you support or oppose statehood for Washington DC?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose|Don't know,2024-05-20
+Q116,Which approach to policing reform would you prefer?,Increase police funding and training|Decrease police funding and invest in social services|Maintain current funding levels|Not sure,2024-06-20
+Q117,"On a scale from 0 to 100, how would you rate the state of democracy in America today?",[Numeric scale 0-100],2024-09-28
+Q118,Do you support or oppose allowing parents to use public funds (vouchers) to send their children to private schools?,Strongly support|Somewhat support|Somewhat oppose|Strongly oppose,2024-09-15
+Q119,What is the biggest threat to democracy in America today?,[Open-ended response],2024-09-28
+Q120,"Which of the following statements comes closest to your view about diversity, equity, and inclusion (DEI) programs?",DEI programs are necessary and effective|DEI programs are necessary but poorly implemented|DEI programs are well-intentioned but unnecessary|DEI programs are harmful and should be eliminated|Not sure,2024-08-05

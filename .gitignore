@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# Large PDF files (if proprietary)
+# Uncomment if needed:
+# tavern_files/*.pdf
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# API keys (if stored locally)
+.env
+*.key
+
+# Output directories (if regenerating)
+# Uncomment if you want to exclude generated outputs:
+# output/
+# figures/
+# tables/
+
